@@ -5,13 +5,22 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poet_Bird", "PythonToolsLinks1\Poet_Bird.csproj", "{592F6898-A793-4FC3-8F37-619D011C64EE}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Poet_Bird_Web", "Poet_Bird_Web\Poet_Bird_Web.pyproj", "{C87BA899-6085-4071-B065-ED36E6EE4771}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{592F6898-A793-4FC3-8F37-619D011C64EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{592F6898-A793-4FC3-8F37-619D011C64EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592F6898-A793-4FC3-8F37-619D011C64EE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{592F6898-A793-4FC3-8F37-619D011C64EE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{C87BA899-6085-4071-B065-ED36E6EE4771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87BA899-6085-4071-B065-ED36E6EE4771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87BA899-6085-4071-B065-ED36E6EE4771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87BA899-6085-4071-B065-ED36E6EE4771}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
